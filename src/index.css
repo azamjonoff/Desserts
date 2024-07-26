@@ -19,6 +19,10 @@
     border: 1px solid var(--color-rose-400, #ad8a85);
   }
 
+  .btn-border-org {
+    border: 2px solid #c73b0f;
+  }
+
   .bg-over {
     background: rgba(0, 0, 0, 0.5);
   }

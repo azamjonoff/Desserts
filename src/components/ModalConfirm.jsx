@@ -60,7 +60,7 @@ function ModalConfirm({ modal, setModal }) {
             return clear.push(order);
           });
         }}
-        className="bg-orange-600 py-4 rounded-full text-white font-semibold text-base mt-8"
+        className="bg-orange-600 transition-all btn-border-org py-4 rounded-full text-white font-semibold text-base mt-8 hover:bg-white hover:text-orange-600"
       >
         Start New Order
       </button>
